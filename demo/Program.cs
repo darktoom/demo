@@ -40,20 +40,21 @@
             //}while (!(number % 2 == 0)||  ! flag== true );
 
             // while
-            int x=4;
-            while (x % 2 == 0)
-            {
-                Console.WriteLine("even number");
-                Console.WriteLine("enter odd num");
-                x=int.Parse(Console.ReadLine());
+            //int x=4;
+            //while (x % 2 == 0)
+            //{
+            //    Console.WriteLine("even number");
+            //    Console.WriteLine("enter odd num");
+            //    x=int.Parse(Console.ReadLine());
 
-            }
-            Console.WriteLine("odd number");
+            //}
+            //Console.WriteLine("odd number");
             #endregion
 
             
 
             #endregion
+           //test test
         }
     }
 }
